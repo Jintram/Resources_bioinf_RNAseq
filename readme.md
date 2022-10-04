@@ -7,14 +7,14 @@ For our studies, mouse and human transcription factors and ligand-receptor pairs
 I have gathered the following resources now:
 ### 1. Human TFs
 
-There are two options here;
+There are two options I considered;
 
-- From https://www.grnpedia.org/trrust/downloadnetwork.php (human), Han H, Cho JW, Lee S, Yun A, Kim H, Bae D, Yang S, Kim CY, Lee M, Kim E, Lee S, Kang B, Jeong D, Kim Y, Jeon HN, Jung H, Nam S, Chung M, Kim JH, Lee I. TRRUST v2: An expanded reference database of human and mouse transcriptional regulatory interactions. Nucleic Acids Res. 2018;46(D1):D380-D386. http://doi.org/10.1093/nar/gkx1013
-- From `Lambert SA, Jolma A, Campitelli LF, Das PK, Yin Y, Albu M, Chen X, Taipale J, Hughes TR, Weirauch MT. The Human Transcription Factors. Cell. 2018;172(4):650-665. http://doi.org/10.1016/j.cell.2018.01.029`
+- From [Han et al, TRRUST v2: An expanded reference database of human and mouse transcriptional regulatory interactions. Nucleic Acids Res. 2018;46(D1):D380-D386](http://doi.org/10.1093/nar/gkx1013), which was cited ±900X. Link: https://www.grnpedia.org/trrust/downloadnetwork.php (human).
+- From [Lambert et al. The Human Transcription Factors. Cell. 2018;172(4):650-665.](http://doi.org/10.1016/j.cell.2018.01.029), which was cited ±1600X.
 
 ### 2. Mouse TFs
 
-Also from https://www.grnpedia.org/trrust/downloadnetwork.php (mouse), Han H, Cho JW, Lee S, Yun A, Kim H, Bae D, Yang S, Kim CY, Lee M, Kim E, Lee S, Kang B, Jeong D, Kim Y, Jeon HN, Jung H, Nam S, Chung M, Kim JH, Lee I. TRRUST v2: An expanded reference database of human and mouse transcriptional regulatory interactions. Nucleic Acids Res. 2018;46(D1):D380-D386. http://doi.org/10.1093/nar/gkx1013
+- Also from [Han et al, TRRUST v2: An expanded reference database of human and mouse transcriptional regulatory interactions. Nucleic Acids Res. 2018;46(D1):D380-D386](http://doi.org/10.1093/nar/gkx1013), this is both human and mouse. Link: https://www.grnpedia.org/trrust/downloadnetwork.php (human).
 
 ### 3. Ligand-Receptor interactions human
 
